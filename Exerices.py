@@ -56,3 +56,6 @@ plt.figure(figsize=(6, 4))
 sns.heatmap(correlation, annot=True, cmap="coolwarm")
 plt.title("Corrélation des rendements")
 plt.show()
+
+
+print("\n📊 Visualisations terminées.")

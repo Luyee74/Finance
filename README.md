@@ -26,3 +26,6 @@ Il s'inscrit dans une démarche d'apprentissage pratique de la **data science ap
   - Statistiques : moyenne, écart-type annualisé
   - Matrice de corrélation
   - Visualisation des données
+
+
+salut
